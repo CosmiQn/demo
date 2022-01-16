@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "id": "91c9b41c-acb6-4887-93a1-dea80d13e92f",
+  "name": "Device_1",
+  "app_eui": "3655731B237B9BA8",
+  "dev_eui": "ED9196B2424BF383",
+  "devaddr": "07040048",
+  "downlink_url": "https:&#x2F;&#x2F;staging-console.helium.com&#x2F;api&#x2F;v1&#x2F;down&#x2F;46fe16d8-bb37-4fc7-8f66-d722aa86a995&#x2F;L-RZrP2oxYQ150phzndQ-O5LKlXjRb17&#x2F;91c9b41c-acb6-4887-93a1-dea80d13e92f",
+  "fcnt": "412",
+  "port": "1",
+  "payload": "base64 encoded payload",
+  "reported_at": "1606262019"
 }
